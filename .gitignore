@@ -11,9 +11,8 @@ vendor/
 *.cache
 *.tmp
 
-# Go modules
 go.sum
-go.mod
+
 
 # IDE & Editor files
 .vscode/
