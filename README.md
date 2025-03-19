@@ -21,6 +21,11 @@ CLI Todo App adalah aplikasi Command Line Interface (CLI) sederhana untuk mengel
 ```sh
 git clone https://github.com/wanto-production/cli-todo.git
 cd cli-todo
+
+## install
+
+go mod tidy
+
 ```
 
 ### 2. compile
