@@ -1,0 +1,32 @@
+# Binary file
+*.exe
+*.out
+*.bin
+
+# Go-related files
+bin/
+pkg/
+vendor/
+*.log
+*.cache
+*.tmp
+
+# Go modules
+go.sum
+go.mod
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# SQLite database (jika digunakan)
+*.db
+*.sqlite
+*.sqlite3
+
